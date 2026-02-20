@@ -1,9 +1,11 @@
-Name:Sakshi Singh
+#DSA Array Assignment questions.
 
-Subject: DSA
+##Name:Sakshi Singh
 
-Topic: Arrays
+##Subject: DSA
 
-Completed Questions
+##Topic: Arrays
+
+###Completed Questions
 
 1.Reverse an array
