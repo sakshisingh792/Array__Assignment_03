@@ -6,6 +6,4 @@
 
 ## Topic: Arrays
 
-### Completed Questions
 
-1.Reverse an array
