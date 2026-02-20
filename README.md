@@ -1,2 +1,6 @@
-# Array__Assignment_03
-It contains solutions of array questions given in assignment.
+
+Name:Sakshi Singh
+Subject: DSA
+Topic: Arrays
+Completed Questions
+1. Reverse an array
